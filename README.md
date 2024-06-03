@@ -7,7 +7,7 @@ I have invented a weird algorithm of bounding spaces with back- and forward slas
 For example, it is not allowed to form the following nets:
 \/\
 
-\\
+\\\
 //
 
 if you put this symbols together, you will have a line. The following example is permitted:
